@@ -17,5 +17,8 @@
     "url": "https://github.com/AZERDEVERA/test-program-using-wsl/issues"
   },
   "homepage": "https://github.com/AZERDEVERA/test-program-using-wsl#readme",
-  "dependencies": {}
+  "dependencies": {
+    "express": "^4.17.3",
+    "mysql2": "^2.3.3"
+  }
 }

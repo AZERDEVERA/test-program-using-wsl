@@ -1,4 +1,21 @@
 linux ubuntu user:azer, pass:123456
-
 set up oh my zsh 
 first install zsh shell -> sudo apt install zsh
+
+# To install updated copy of Nodejs in UBUNTU
+# Don't use sudo apt intall nodejs -> Not updated Nodejs
+# Using Ubuntu
+curl -fsSL https://deb.nodesource.com/setup_17.x | sudo -E bash -
+sudo apt-get install -y nodejs
+
+#upgrade wsl1 to wsl2 -> in powershell as admin -> wsl.exe --set-version Ubuntu 2
+
+npm init -y -> create package.jason file
+#docker-compose.yml -> docker hub
+
+
+*remember projects should be in linux for docker to work
+
+#docker compose up
+#docker compose down
+#docker compose start
