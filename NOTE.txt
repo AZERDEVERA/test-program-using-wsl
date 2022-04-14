@@ -1,0 +1,4 @@
+linux ubuntu user:azer, pass:123456
+
+set up oh my zsh 
+first install zsh shell -> sudo apt install zsh
